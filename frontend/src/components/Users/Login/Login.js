@@ -29,7 +29,7 @@ const Login = () => {
   if (userAuth) return <Redirect to={`/`} />;
   return (
     <>
-      <section className="min-h-screen relative py-20 2xl:py-40 bg-gray-900 overflow-hidden">
+      <section className="min-h-screen relative py-12 2xl:py-20 bg-gray-900 overflow-hidden">
         <div className="absolute top-0 left-0 lg:bottom-0 h-full lg:h-auto w-full lg:w-4/12 bg-white lg:overflow-hidden"></div>
         <div className="relative container px-4 mx-auto">
           <div className="max-w-5xl mx-auto">
