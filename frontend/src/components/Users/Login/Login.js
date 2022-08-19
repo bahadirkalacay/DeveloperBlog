@@ -78,7 +78,7 @@ const Login = () => {
                       {formik.touched.email && formik.errors.email}
                     </div>
                     <div className="flex items-center pl-6 mb-6 border border-gray-50 bg-white rounded-full">
-                      <span className="inline-block pr-3 border-r border-gray-50">
+                      <span className="inline-block pr-3 border-r border-gray-50 ">
                         <svg
                           className="w-5 h-5"
                           width="20"
@@ -128,7 +128,7 @@ const Login = () => {
                 </div>
               </div>
               <div className="w-full lg:w-3/5 px-4 mb-16 lg:mb-0 order-first lg:order-last">
-                <span className="flex  mx-auto items-center justify-center h-20 w-20 bg-white-500 rounded-lg">
+                <span className="flex  mx-auto items-center justify-center h-20 w-20 bg-green-600 rounded-lg">
                   <svg
                     width="37"
                     height="37"
@@ -168,7 +168,7 @@ const Login = () => {
                     </g>
                   </svg>
                 </span>
-                <h2 className="mb-10 text-center text-6xl lg:text-7xl text-white font-bold font-heading">
+                <h2 className="mb-10 text-center text-6xl lg:text-7xl text-green-600 font-bold font-heading">
                   Ready to start? Login Now.
                 </h2>
               </div>
