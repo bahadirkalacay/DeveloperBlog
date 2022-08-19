@@ -59,7 +59,7 @@ export default function Profile(props) {
                           <div className="flex py-6">
                             <img
                               className="h-24 w-24 rounded-full  ring-4 ring-white sm:h-32 sm:w-32"
-                              src={`${baseUrl}/profile/${profile?.profilePhoto}`}
+                              src={`${baseUrl}/profile/${userAuth?.profilePhoto}`}
                               alt={profile?.firstName}
                             />
                           </div>
