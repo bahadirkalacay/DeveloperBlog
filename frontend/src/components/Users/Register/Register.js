@@ -36,7 +36,7 @@ const dispatch=useDispatch()
      return <Redirect to={`/profile/${userAuth?._id}`} />
   }
   return (
-    <section className="relative py-20 2xl:py-40 bg-white overflow-hidden">
+    <section className="relative py-12 2xl:py-20 bg-white overflow-hidden">
     <div className="relative container px-4 mx-auto">
       <div className="max-w-5xl mx-auto">
         <div className="flex flex-wrap items-center -mx-4">
