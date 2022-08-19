@@ -2,7 +2,7 @@
 
 #Demo Link : https://developer-blog-three.vercel.app/
 
-#Admin 
+#Admin Login
 
 #email:test@gmail.com  
 
