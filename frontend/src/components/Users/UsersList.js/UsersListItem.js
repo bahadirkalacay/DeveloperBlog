@@ -78,7 +78,7 @@ const UsersListItem = user => {
 
             <button
               
-              className="inline-flex  justify-center bg-green-500 px-2 items-center  border border-yellow-400 shadow-sm text-sm font-medium rounded-md text-black-300  hover:bg-green-400 focus:outline-none focus:ring-2 focus:ring-offset-2 "
+              className="inline-flex  justify-center bg-green-500 px-2 items-center h-9  border border-yellow-400 shadow-sm text-sm font-medium rounded-md text-black-300  hover:bg-green-400 focus:outline-none focus:ring-2 focus:ring-offset-2 "
             >
               <MailIcon
                 className="-ml-1 mr-2 h-5 w-5 text-gray-200"
