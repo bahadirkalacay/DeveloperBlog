@@ -49,7 +49,7 @@ const PublicNavbar = () => {
                       className={classNames(
                         item.current
                           ? "bg-gray-900 text-white"
-                          : "text-black hover:bg-white hover:text-black",
+                          : "text-white hover:bg-white hover:text-black",
                         "px-3 py-2 rounded-md text-sm font-medium"
                       )}
                       aria-current={item.current ? "current" : undefined}
