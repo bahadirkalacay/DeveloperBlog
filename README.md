@@ -1,6 +1,6 @@
 # DeveloperBlog
 
-#Demo Link : https://developer-blog-615yojyd9-bahadirkalacay.vercel.app/
+#Demo Link : https://developer-blog-dzd7.vercel.app/
 
 #Admin Login
 
