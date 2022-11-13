@@ -39,7 +39,7 @@ const profilePhotoResize = async (req, res, next) => {
 
 const postImgResize = async (req, res, next) => {
   if (!req.file) return next();
-  req.file.filename = `user-${Date.now()}-${req.file.originalname}`;
+  req.file.filename = `post-${Date.now()}-${req.file.originalname}`;
 
   await sharp(req.file.buffer)
     .resize(500, 500)
