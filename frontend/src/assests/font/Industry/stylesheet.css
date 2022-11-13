@@ -1,0 +1,96 @@
+
+@font-face {
+    font-family: 'Industry';
+    src: local('Industry Light'), local('Industry-Light'),
+        url('Industry-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Industry';
+    src: local('Industry Bold'), local('Industry-Bold'),
+        url('Industry-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Industry';
+    src: local('Industry Bold Italic'), local('Industry-BoldItalic'),
+        url('Industry-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Industry';
+    src: local('Industry Light Italic'), local('Industry-LightItalic'),
+        url('Industry-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Industry-Book';
+    src: local('Industry Book'), local('Industry-Book'),
+        url('Industry-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Industry';
+    src: local('Industry Black Italic'), local('Industry-BlackItalic'),
+        url('Industry-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Industry-BookItalic';
+    src: local('Industry Book Italic'), local('Industry-BookItalic'),
+        url('Industry-BookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Industry-DemiItalic';
+    src: local('Industry Demi Italic'), local('Industry-DemiItalic'),
+        url('Industry-DemiItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Industry';
+    src: local('Industry Black'), local('Industry-Black'),
+        url('Industry-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Industry';
+    src: local('Industry Medium'), local('Industry-Medium'),
+        url('Industry-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Industry';
+    src: local('Industry Medium Italic'), local('Industry-MediumItalic'),
+        url('Industry-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Industry-Demi';
+    src: local('Industry Demi'), local('Industry-Demi'),
+        url('Industry-Demi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
